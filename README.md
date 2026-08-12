@@ -6,6 +6,19 @@ A full-stack healthcare management application designed to manage patient inform
 
 > **Portfolio Project:** End-to-end application development including UI design, frontend, backend, API integration, and database-driven functionality.
 
+## 📋 Project at a Glance
+
+| Category | Details |
+|---|---|
+| **Project Type** | Full-Stack Healthcare Management Application |
+| **Domain** | Healthcare / Patient Management |
+| **Development** | End-to-End Development |
+| **Backend** | ASP.NET Core, C# |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Database** | Microsoft SQL Server |
+| **API** | REST APIs |
+| **Key Areas** | Patient Management, Discharge, Pharmacy, Orders, Facilities, Users & Permissions |
+
 ---
 
 ## 📌 Project Overview
