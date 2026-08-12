@@ -1,3 +1,5 @@
+![Patient Management & Healthcare Operations System Banner](banner.png)
+
 # Patient Management & Healthcare Operations System
 
 A full-stack healthcare management application designed to manage patient information, healthcare workflows, discharge summaries, pharmacy operations, facility management, user administration, permissions, and system configuration.
